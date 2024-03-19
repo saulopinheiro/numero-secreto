@@ -1,4 +1,4 @@
-//teste de versão
+//teste de versão 2
 let listaDeNumerosSorteados = [];
 let numeroLimite = 100;
 let numeroSecreto = gerarNumeroAleatorio();
